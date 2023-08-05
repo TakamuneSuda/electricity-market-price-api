@@ -1,0 +1,4 @@
+fastapi==0.95.1
+datetime==4.3
+google-cloud-firestore==2.11.0
+agraffe==0.7.0
